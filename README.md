@@ -43,3 +43,5 @@ Atualmente estou estudando programação na Rocketseat, cursando a faculdade de 
 
 * Instagram: @anamarquesdev
 * GitHub: https://github.com/anakatharyna
+
+![anakatharyna's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anakatharyna&theme=vue-dark&hide_border=true)
